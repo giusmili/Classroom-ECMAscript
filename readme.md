@@ -6,4 +6,6 @@
 - Auteur : *Brendan Eich, Ecma International*
 - Paradigmes : *Multi-paradigm: Programmation orientée prototype, functional, Impératif*
 
+[Voir la publication de la page](https://giusmili.github.io/Classroom-ECMAscript/)
+
 ![AUR License](https://img.shields.io/aur/license/c)
