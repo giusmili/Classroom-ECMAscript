@@ -9,3 +9,11 @@ export class Icon {
         icon.innerHTML += '<img src="./asset/javascript_icon_130900.png" alt="cover logo">';
     }
 }
+
+export const Date_objet = {
+    elements: document.querySelector("footer p"),
+    date_now: new Date().getFullYear(),
+    insert_date() {
+        this.elements.innerText += this.date_now;
+    }
+};

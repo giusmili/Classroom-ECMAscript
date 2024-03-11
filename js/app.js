@@ -1,4 +1,4 @@
-import { Icon } from "./add_app.js";
+import { Icon, Date_objet } from "./add_app.js";
 
 document.addEventListener("DOMContentLoaded", e => {
     console.log(e.target);
@@ -10,4 +10,6 @@ document.addEventListener("DOMContentLoaded", e => {
     console.log(typeof bool);
 
     Icon.add_icon();
+
+    Date_objet.insert_date();
 });
