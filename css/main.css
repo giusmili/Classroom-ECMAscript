@@ -1,0 +1,11 @@
+body{
+    color: #222;
+}
+header *{
+    text-align: center;
+    line-height: 7.5rem;
+}
+article{
+    max-width: 120rem;
+    margin: auto;
+}
