@@ -4,8 +4,14 @@ body{
 header *{
     text-align: center;
     line-height: 7.5rem;
+    padding: 1rem 0;
 }
 article{
     max-width: 120rem;
     margin: auto;
 }
+header h1 span img{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: .5rem;
+} 
